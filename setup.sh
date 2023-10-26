@@ -10,9 +10,6 @@ read ipt
 # ディレクトリの作成
 mkdir $ipt
 
-# run.shのコピー
-cp run.sh $ipt/run.sh
-
 # 移動
 cd $ipt
 
@@ -112,3 +109,9 @@ EOF
 # cssファイルの作成
 mkdir -p src/css
 touch src/css/styles.css
+
+# run.shの作成
+cat << EOF > ./run.sh
+#!/bin/bash
+npm run build && serve ./dist
+EOF
