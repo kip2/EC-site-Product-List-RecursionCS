@@ -1,10 +1,20 @@
 import React from "react";
 import sytles from "../css/styles.css";
+import Category from "./Category";
+
+const Items = [
+	"Desctop PC",
+	"Smart Phone",
+	"Tablet",
+	"Laptop"
+];
 
 export default function App() {
 	return (
-	  <>
-	    <h1>Hello React!</h1>
-	  </>
+		<>
+			{Items.map((item) => {
+				<Category category={item} />
+			})}
+		</>
 	);
 }
