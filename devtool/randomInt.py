@@ -8,4 +8,4 @@ def generation_random_price(count, min, max):
         get_random_int(min, max)
 
 if __name__ == "__main__":
-    generation_random_price(5, 8000, 20000)
+    generation_random_price(10, 100000, 200000)

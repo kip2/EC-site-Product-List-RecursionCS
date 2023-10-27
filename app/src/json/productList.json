@@ -5,22 +5,22 @@
             { 
                 "name": "DESKTOP1",
                 "imgUrl": "./img/desktop1.png",
-                "price": 12345
+                "price": 130896
             },
             { 
-                "name": "DESKTOP1",
+                "name": "DESKTOP2",
                 "imgUrl": "./img/desktop2.png",
-                "price": 12345
+                "price": 132364
             },
             { 
-                "name": "DESKTOP1",
+                "name": "DESKTOP3",
                 "imgUrl": "./img/desktop3.png",
-                "price": 12345
+                "price": 174552
             },
             { 
-                "name": "DESKTOP1",
+                "name": "DESKTOP4",
                 "imgUrl": "./img/desktop4.png",
-                "price": 12345
+                "price": 169765
             }
         ]
     },
@@ -30,22 +30,22 @@
             { 
                 "name": "LAPTOP1",
                 "imgUrl": "./img/laptop1.png",
-                "price": 12345
+                "price": 70952
             },
             { 
-                "name": "LAPTOP1",
+                "name": "LAPTOP2",
                 "imgUrl": "./img/laptop2.png",
-                "price": 12345
+                "price": 74426
             },
             { 
-                "name": "LAPTOP1",
+                "name": "LAPTOP3",
                 "imgUrl": "./img/laptop3.png",
-                "price": 12345
+                "price": 104330
             },
             { 
-                "name": "LAPTOP1",
+                "name": "LAPTOP4",
                 "imgUrl": "./img/laptop4.png",
-                "price": 12345
+                "price": 110951
             }
         ]
     },
@@ -55,22 +55,22 @@
             { 
                 "name": "TABLET1",
                 "imgUrl": "./img/tablet1.png",
-                "price": 12345
+                "price": 69461
             },
             { 
-                "name": "TABLET1",
+                "name": "TABLET2",
                 "imgUrl": "./img/tablet2.png",
-                "price": 12345
+                "price": 82705
             },
             { 
-                "name": "TABLET1",
+                "name": "TABLET3",
                 "imgUrl": "./img/tablet3.png",
-                "price": 12345
+                "price": 77595
             },
             { 
-                "name": "TABLET1",
+                "name": "TABLET4",
                 "imgUrl": "./img/tablet4.png",
-                "price": 12345
+                "price": 91165
             }
         ]
     },
@@ -80,17 +80,17 @@
             { 
                 "name": "PHONE1",
                 "imgUrl": "./img/phone1.png",
-                "price": 12345
+                "price": 90302
             },
             { 
-                "name": "PHONE1",
+                "name": "PHONE2",
                 "imgUrl": "./img/phone2.png",
-                "price": 12345
+                "price": 54450
             },
             { 
-                "name": "PHONE1",
+                "name": "PHONE3",
                 "imgUrl": "./img/phone3.png",
-                "price": 12345
+                "price": 62255
             }
         ]
     }
