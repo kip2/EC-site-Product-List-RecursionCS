@@ -6,6 +6,8 @@ ReacursionCSのReactコースの課題
 
 Reactのコンポーネントの扱いに慣れるための課題です
 
+![参考図](doc/image.png)
+
 # Access
 
 [アクセス！](https://kip2.github.io/EC-site-Product-List-RecursionCS)
