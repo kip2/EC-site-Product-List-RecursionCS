@@ -26,6 +26,10 @@ Reactのコンポーネントの扱いに慣れるための課題です
 
 reactをローカル環境で揃える際に必要なものをシェルスクリプト化
 
+以下のリポジトリに詳しくまとまっています
+
+https://github.com/kip2/ShellScripts/tree/main/React-StartUp
+
 念のため使用法を書いておきます
 
 1. 以下コマンドで起動
