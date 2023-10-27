@@ -5,7 +5,7 @@ import Product from "./Product";
 export default function Products({ products }) {
     return (
         <>
-            <div>
+            <div className={sytles.container}>
                 {
                     products.map(product => {
                         return <Product {...product} />;
