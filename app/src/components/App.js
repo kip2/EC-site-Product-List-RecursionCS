@@ -1,17 +1,22 @@
-import React from "react";
+import React, { useState } from "react";
 import sytles from "../css/styles.css";
 import Category from "./Category";
 
-const Items = [
-	{name: "Desctop PC"},
-	{name: "Desctop PC"},
-	{name:"Desctop PC"},
-];
 
 export default function App() {
+	const categories = [
+		"test1",
+		"test2",
+		"test3"
+	]
+
 	return (
-		<>
-			<Category category={"hello"} />
-		</>
+		<div>
+			{
+				categories.map(category => {
+					return <Category category={category} />;
+				})
+			}
+		</div>
 	);
 }
