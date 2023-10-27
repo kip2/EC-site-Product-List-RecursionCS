@@ -3,18 +3,15 @@ import sytles from "../css/styles.css";
 import Category from "./Category";
 
 const Items = [
-	"Desctop PC",
-	"Smart Phone",
-	"Tablet",
-	"Laptop"
+	{name: "Desctop PC"},
+	{name: "Desctop PC"},
+	{name:"Desctop PC"},
 ];
 
 export default function App() {
 	return (
 		<>
-			{Items.map((item) => {
-				<Category category={item} />
-			})}
+			<Category category={"hello"} />
 		</>
 	);
 }
