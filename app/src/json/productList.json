@@ -71,11 +71,6 @@
                 "name": "TABLET1",
                 "imgUrl": "./img/tablet4.png",
                 "price": 12345
-            },
-            { 
-                "name": "TABLET1",
-                "imgUrl": "./img/tablet5.png",
-                "price": 12345
             }
         ]
     },
