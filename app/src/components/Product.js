@@ -6,7 +6,7 @@ export default function Product({ name, imgUrl, price }) {
         <>
             <section className={sytles.card}>
                 <img src={imgUrl} />
-                <h1>{name}</h1>
+                <p>{name}</p>
                 <p>{price}</p>
             </section>
         </>
