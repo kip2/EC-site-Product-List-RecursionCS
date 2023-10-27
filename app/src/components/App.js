@@ -7,12 +7,13 @@ export default function App() {
 	const [data] = useState(productList);
 
 	return (
-		<div>
+		<>
+			<h1>Product List</h1>
 			{
 				data.map(products => {
 					return <Category category={products.category} />;
 				})
 			}
-		</div>
+		</>
 	);
 }
