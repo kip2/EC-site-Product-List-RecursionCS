@@ -18,5 +18,25 @@
                 "price": 12345
             }
         ]
+    },
+    {
+        "category": "Desctop PC",
+        "products": [
+            { 
+                "name": "DESKTOP1",
+                "imgUrl": "./img/destop1.png",
+                "price": 12345
+            },
+            { 
+                "name": "DESKTOP1",
+                "imgUrl": "./img/destop1.png",
+                "price": 12345
+            },
+            { 
+                "name": "DESKTOP1",
+                "imgUrl": "./img/destop1.png",
+                "price": 12345
+            }
+        ]
     }
 ]
