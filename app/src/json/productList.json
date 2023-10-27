@@ -84,12 +84,12 @@
             },
             { 
                 "name": "PHONE1",
-                "imgUrl": "./img/phone1.png",
+                "imgUrl": "./img/phone2.png",
                 "price": 12345
             },
             { 
                 "name": "PHONE1",
-                "imgUrl": "./img/phone1.png",
+                "imgUrl": "./img/phone3.png",
                 "price": 12345
             }
         ]
