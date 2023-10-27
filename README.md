@@ -10,6 +10,22 @@ Reactのコンポーネントの扱いに慣れるための課題です
 
 [アクセス！](https://kip2.github.io/EC-site-Product-List-RecursionCS)
 
+# 作成にあたって
+
+## 参考書籍
+
+以下の書籍を参考にしました
+
+[Reactハンズオンラーニング](https://www.oreilly.co.jp//books/9784873119380/)
+
+## サンプル画像について
+
+chatGPTのDALL-E3で作成しています
+
+## サンプル文章について
+
+chatGPTに協力してもらいました
+
 ---
 
 # 追記
