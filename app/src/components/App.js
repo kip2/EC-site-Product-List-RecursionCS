@@ -8,7 +8,9 @@ export default function App() {
 
 	return (
 		<>
-			<h1>Product List</h1>
+			<div className={sytles.title}>
+				<h1>Product List</h1>
+			</div>
 			{
 				data.map(products => {
 					return <Category category={products.category} products={products.products} />;
