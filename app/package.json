@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "homepage": "https://kip2.github.io/EC-site-Product-List-ReacursionCS",
+  "homepage": "https://kip2.github.io/EC-site-Product-List-RecursionCS",
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -d dist",
