@@ -4,13 +4,13 @@ import Category from "./Category";
 import productList from "../json/productList.json";
 
 export default function App() {
-	const [categories] = useState(productList);
+	const [data] = useState(productList);
 
 	return (
 		<div>
 			{
-				categories.map(category => {
-					return <Category category={category.category} />;
+				data.map(products => {
+					return <Category category={products.category} />;
 				})
 			}
 		</div>
